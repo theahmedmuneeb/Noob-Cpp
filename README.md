@@ -1,5 +1,4 @@
-# ![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/427px-ISO_C%2B%2B_Logo.svg.png)  
-# Noob-Cpp 🌟  
+ # Noob-Cpp 🌟  
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)](https://isocpp.org/)  
 [![GitHub stars](https://img.shields.io/github/stars/theahmedmuneeb/Noob-Cpp?style=social)](https://github.com/theahmedmuneeb/Noob-Cpp/stargazers)  
